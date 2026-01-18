@@ -6,6 +6,12 @@ A Flutter application that generates professional **GST Tax Invoices** in PDF fo
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+## 📲 Download APK
+
+You can download the latest version of the app from the link below:
+
+[**Download Invoice Generator APK**](https://drive.google.com/file/d/1eAXhvuJO8v5sLodpmel6VrJVeBCMi1mN/view?usp=drivesdk)
+
 ## ✨ Features
 
 - 📝 **Comprehensive Invoice Form** - Enter all invoice details with organized sections
